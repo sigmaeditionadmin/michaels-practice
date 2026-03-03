@@ -1,4 +1,3 @@
-# michaels-practice
 
 #!/bin/sh -eu
 # Copyright (c) Tailscale Inc
